@@ -1,0 +1,1 @@
+Course information automatically generates here upon running of AverageAcquisition2.java.
