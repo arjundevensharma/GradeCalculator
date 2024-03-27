@@ -6,4 +6,4 @@ Description: Academic average calculator from student data on Edsby. Throughout 
 
 ## V2
 Date: October 5, 2024 
-Description: Facilitated processing of multi-mark formats (percentages and [mark]/[mark]) of student data in Edsby.
+Description: Facilitated processing of multi-mark formats (% & [mark]/[mark] formats) of student data in Edsby.
